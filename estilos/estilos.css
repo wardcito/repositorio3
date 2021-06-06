@@ -1,0 +1,28 @@
+body{
+	background: #daa520;
+}
+tittle{
+	font-size: 60px;
+	font-style: arial;
+	font-weight: 30px
+}
+h1{
+	color: blue
+}
+h2{
+	color: yellow
+}h3{
+	color: red
+}h4{
+	color: white
+}h5{
+	color: green
+}
+table{
+	width: 100%
+
+}
+table, th, td{
+	border: 2px solid black;
+	border-collapse: collapse;
+}
