@@ -1,22 +1,22 @@
 body{
-	background: #daa520;
+	background: #99FF66;
 }
 tittle{
 	font-size: 60px;
-	font-style: arial;
+	font-style: comic sans;
 	font-weight: 30px
 }
 h1{
-	color: blue
+	color: black
 }
 h2{
-	color: yellow
+	color: blue
 }h3{
-	color: red
+	color: pink
 }h4{
 	color: white
 }h5{
-	color: green
+	color: red
 }
 table{
 	width: 100%
